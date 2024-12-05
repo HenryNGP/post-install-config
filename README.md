@@ -20,7 +20,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Department
 - Configure Teams
-- Create Ticket
 - Configure Agent/Users
 
 <h2>Configuration Steps</h2>
