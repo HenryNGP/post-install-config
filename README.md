@@ -33,8 +33,6 @@ To configure roles you need to be in Admin Panels, and click on Agent then Roles
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/7cdfa79a-4f3b-412f-89b3-849f2af4f7d7">
 </p>
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/b337f842-96bc-4155-a614-7cbefeb1f29d">
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 To Configure Department you need to be in Admin Panels, and click on Agents then Department.
 </p>
