@@ -33,21 +33,17 @@ To configure roles you need to be in Admin Panels, and click on Agent then Roles
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/7cdfa79a-4f3b-412f-89b3-849f2af4f7d7">
 </p>
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/b337f842-96bc-4155-a614-7cbefeb1f29d">
-
-<br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To Configure Department you need to be in Admin Panels, and click on Agents then Department.
 </p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/3b7ddf6e-7978-4a64-9861-b4116e565de6">
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To Configure Team you need to be in Admin Panels, and click on Agents then Teams.
+<img width="745" alt="image" src="https://github.com/user-attachments/assets/ba91cace-6a04-4314-a4ae-ee94efa4ff22">
 </p>
-<br />
+To Configure Agent you need to be in Admin Panels, and click on Agents then Agents.
+</p>
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/220e8697-3a83-45f1-bf4d-abdba52bc544">
+</p>
